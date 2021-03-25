@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-5/./src/test.js"],"names":["newArr","console","log"],"mappings":"mBAAO,IAEDA,IAAS,GAAH,OADA,CAAC,EAAG,EAAG,GACP,CAAY,IACtBC,QAAQC,IAAIF,I","file":"main.js","sourcesContent":["export const test = () => {\r\n  let arr = [1, 2, 3];\r\n  let newArr = [...arr, 4];\r\n  console.log(newArr);\r\n};\r\n"],"sourceRoot":""}
